@@ -1,0 +1,1 @@
+ALTER TABLE USUARIOS DROP COLUMN fecha_nacimiento;
