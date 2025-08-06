@@ -1,0 +1,1 @@
+ALTER TABLE USUARIOS_HISTORIALES_RESIDUOS RENAME COLUMN id_usuario_historial TO id_usuario_historial_residuos;
