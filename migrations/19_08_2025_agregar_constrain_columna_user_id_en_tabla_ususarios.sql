@@ -1,0 +1,1 @@
+ALTER TABLE USUARIOS ADD CONSTRAINT usuarios_user_id_fkey FOREIGN KEY (user_id) REFERENCES auth_user(id);
