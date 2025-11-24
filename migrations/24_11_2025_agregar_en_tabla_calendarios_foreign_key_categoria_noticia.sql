@@ -1,0 +1,1 @@
+ALTER TABLE CALENDARIOS ADD CONSTRAINT fk_calendarios_categoria FOREIGN KEY (categoria_noticia) REFERENCES CATEGORIA_NOTICIAS(id_categoria_noticias)
