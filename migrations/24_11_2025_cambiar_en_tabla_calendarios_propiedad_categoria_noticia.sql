@@ -1,0 +1,1 @@
+ALTER TABLE CALENDARIOS ALTER COLUMN categoria_noticia TYPE INTEGER USING categoria_noticia::INTEGER;
