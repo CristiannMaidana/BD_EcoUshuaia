@@ -1,0 +1,1 @@
+ALTER TABLE MAPAS DROP COLUMN id_coordenada;
