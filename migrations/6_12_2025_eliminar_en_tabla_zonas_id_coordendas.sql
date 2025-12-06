@@ -1,0 +1,1 @@
+ALTER TABLE ZONAS DROP COLUMN id_coordenada;
