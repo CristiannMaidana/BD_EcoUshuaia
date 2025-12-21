@@ -1,0 +1,1 @@
+ALTER TABLE SENSOR_ESTADO_HISTORIAL ADD CONSTRAINT fk_sensor_estado_tipo FOREIGN KEY (id_sensor_estado_tipo) REFERENCES SENSOR_ESTADOS_TIPOS(id_sensor_estado_tipos);
