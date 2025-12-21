@@ -1,0 +1,1 @@
+ALTER TABLE SENSOR_ESTADO_HISTORIAL RENAME COLUMN id_tipo_estado TO id_sensor_estado_tipo;
