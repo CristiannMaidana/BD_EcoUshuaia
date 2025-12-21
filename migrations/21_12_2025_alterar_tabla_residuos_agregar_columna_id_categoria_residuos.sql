@@ -1,0 +1,1 @@
+ALTER TABLE RESIDUOS ADD COLUMN id_categoria_residuos INTEGER;
